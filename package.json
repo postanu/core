@@ -1,0 +1,11 @@
+{
+  "name": "@postanu/core",
+  "version": "0.0.0",
+  "description": "Deathcore of Postanu",
+  "author": "Eduard Aksamitov",
+  "license": "MIT",
+  "homepage": "https://postanu.com/",
+  "repository": "postanu/core",
+  "sideEffects": false,
+  "type": "module"
+}

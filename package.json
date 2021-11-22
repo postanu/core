@@ -8,6 +8,9 @@
   "repository": "postanu/core",
   "sideEffects": false,
   "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  },
   "devDependencies": {
     "@postanu/eslint-config": "^3.2.0",
     "@typescript-eslint/eslint-plugin": "^5.3.0",

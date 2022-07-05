@@ -14,15 +14,14 @@ export const PAGE_STATE_ACTIVE = 100
 export const PAGE_STATE_DISCONNECTED = 300
 
 export const POST_STATE_CREATED = 100
-export const POST_STATE_REMOVED = 200
-export const POST_STATE_SCHEDULED = 300
-export const POST_STATE_ERRORED = 400
-export const POST_STATE_POSTED = 500
+export const POST_STATE_SCHEDULED = 200
+export const POST_STATE_ARCHIVED = 300
+export const POST_STATE_REMOVED = 400
+export const POST_STATE_ERRORED = 500
+export const POST_STATE_PUBLISHED = 600
 
-export const POST_TYPE_POST = 100
-export const POST_TYPE_DRAFT = 200
-export const POST_TYPE_IMPORTED = 300
-export const POST_TYPE_SUGGESTED = 400
+export const POST_STATE_SUGGESTED = 1000
+export const POST_STATE_IMPORTED = 2000
 
 export const NETWORKS_ORDER = [
 	'facebook',

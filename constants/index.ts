@@ -1,6 +1,6 @@
 export const USER_STATE_ACTIVE = 100
-export const USER_STATE_REMOVED = 200
-export const USER_STATE_BANNED = 200
+export const USER_STATE_REMOVED = 400
+export const USER_STATE_BANNED = 500
 
 export const PROJECT_STATE_ACTIVE = 100
 export const PROJECT_STATE_REMOVED = 200

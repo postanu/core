@@ -1,6 +1,3 @@
 {
-	"extends": "@postanu/eslint-config/ts",
-	"rules": {
-		"import/extensions": "off"
-	}
+	"extends": "@postanu/eslint-config/ts"
 }
